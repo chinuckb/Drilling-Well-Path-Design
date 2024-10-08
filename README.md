@@ -7,7 +7,7 @@ This project contains code for designing and plotting well paths, particularly f
 - Kick-Off Point (KOP)
 - Horizontal distance between the potential drilling site and the reservoir target
 
-The 3D and 2D plots generated visualize the well path.
+The 3D and 2D plots generated visualize the well path. The Excel & CSV files associated are calculations necessary for the final code
 
 # Future Scope
 - Add other well types
